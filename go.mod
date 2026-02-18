@@ -1,4 +1,4 @@
-module github.com/choigun0809A/projects
+module github.com/choigun0809A/project
 
 go 1.25.0
 
