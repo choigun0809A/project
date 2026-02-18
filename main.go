@@ -3,9 +3,10 @@ package main
 import (
 	"image/color"
 	"log"
-	Font_loader "project/Font_Loader"
-	"project/Image"
-	"project/Node"
+
+	Font_loader "github.com/choigun0809A/project/Font_Loader"
+	"github.com/choigun0809A/project/Image"
+	"github.com/choigun0809A/project/Node"
 
 	"github.com/hajimehoshi/ebiten/v2"
 )

@@ -2,9 +2,10 @@ package Node
 
 import (
 	"image/color"
-	common_tools "project/Common_tools"
-	font_loader "project/Font_Loader"
-	image "project/Image"
+
+	common_tools "github.com/choigun0809A/project/Common_tools"
+	font_loader "github.com/choigun0809A/project/Font_Loader"
+	image "github.com/choigun0809A/project/Image"
 
 	"github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/ebiten/v2/text/v2"
